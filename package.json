@@ -1,6 +1,7 @@
 {
   "name": "tic-tac-toe",
   "private": true,
+  "homepage": "https://1997nidhi.github.io/Tic-Tac-Toe/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
